@@ -1,0 +1,13 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #c9a227;
+}
+
+a {
+  text-decoration: none;
+}
